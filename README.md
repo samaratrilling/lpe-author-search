@@ -12,6 +12,7 @@ Run
 ./lpe-search.sh
 ```
 Output will look like:
+```
 https://lpeproject.org/authors/page/1/: Yale
 https://lpeproject.org/authors/page/1/: Yale
 https://lpeproject.org/authors/page/1/: Harvard
@@ -23,3 +24,4 @@ https://lpeproject.org/authors/page/2/: Yale
 https://lpeproject.org/authors/page/3/: Harvard
 https://lpeproject.org/authors/page/3/: Yale
 https://lpeproject.org/authors/page/3/: Yale
+```
